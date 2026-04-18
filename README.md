@@ -10,13 +10,13 @@ In the first part of the project, I had my first contact with neural networks an
 
 Links:
 
-- [Handwritten Digit Recognition](https://github.com/marciosimoes/medical-image-analysis/blob/main/ms777/Redes%20Neurais/Classifica%C3%A7%C3%A3o%20de%20D%C3%ADgitos.ipynb)
-- [Convulational Neural Network](https://github.com/marciosimoes/medical-image-analysis/blob/main/ms777/Redes%20Neurais/Rede%20Convolucional.ipynb)
-- [Transfer Learning through PyTorch](https://github.com/marciosimoes/medical-image-analysis/blob/main/ms777/PyTorch_scripts/Transfer%20Learning.ipynb)
+- [Handwritten Digit Recognition](https://github.com/mar-junior/medical-image-analysis/blob/main/ms777/Redes%20Neurais/Classifica%C3%A7%C3%A3o%20de%20D%C3%ADgitos.ipynb)
+- [Convulational Neural Network](https://github.com/mar-junior/medical-image-analysis/blob/main/ms777/Redes%20Neurais/Rede%20Convolucional.ipynb)
+- [Transfer Learning through PyTorch](https://github.com/mar-junior/medical-image-analysis/blob/main/ms777/PyTorch_scripts/Transfer%20Learning.ipynb)
 
 And not least important, the application of all the tools studied for the Classification of Medical Images, which consist of images of mandibular cysts exams, where the classification by extraction of descriptors was also explored, which brought better results:
 
-- [Medical Image Analysis](https://github.com/marciosimoes/medical-image-analysis/blob/main/ms777/Imagens_m%C3%A9dicas.ipynb)
+- [Medical Image Analysis](https://github.com/mar-junior/medical-image-analysis/blob/main/ms777/Imagens_m%C3%A9dicas.ipynb)
 
 Complete Final Part I Report, delivered at MS777 Course in the 2S 2019:
 
@@ -26,7 +26,7 @@ Complete Final Part I Report, delivered at MS777 Course in the 2S 2019:
 
 In the second part, a weighted ensemble application was carried out, through which there was a new improvement in the results:
 
-- [Medical Image Analysis V2](https://github.com/marciosimoes/medical-image-analysis/blob/main/ms877/Imagens_m%C3%A9dicasV2.ipynb)
+- [Medical Image Analysis V2](https://github.com/mar-junior/medical-image-analysis/blob/main/ms877/Imagens_m%C3%A9dicasV2.ipynb)
 
 Final Part II Report, delivered at MS877 Course in the 1S 2020:
 
